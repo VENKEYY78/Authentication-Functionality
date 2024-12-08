@@ -1,0 +1,9 @@
+.header-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+}
+
+.item {
+  margin-left: 20px;
+}

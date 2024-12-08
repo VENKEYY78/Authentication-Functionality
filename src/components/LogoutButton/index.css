@@ -1,0 +1,8 @@
+.logout-button-container {
+  display: flex;
+  justify-content: center;
+}
+
+.logout-btn {
+  font-family: 'Roboto';
+}
